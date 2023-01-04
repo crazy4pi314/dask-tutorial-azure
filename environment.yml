@@ -1,0 +1,11 @@
+name: dask-experiments
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - dask
+  - scikit-learn
+  - scikit-learn-intelex
+  - ipykernel
+  
